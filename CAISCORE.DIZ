@@ -1,0 +1,24 @@
+[Chua Chee Wee]
+Password={yyii
+
+[Paths]
+Exam=g:\exam\
+Answers=g:\exam\answers\
+
+[Lee Kok Kiang]
+Password=icinw
+
+[Exam]
+Duration=20
+
+[NG BOON TEE]
+Password=T]:XUUT:N__
+
+[Description]
+g:\exam\bank\econ.edx=Economics Exam
+g:\exam\bank\*.EDX=No description available
+g:\exam\bank\econ.bnk=Economics Bank
+g:\exam\temp.txt=Economics Bank from EST
+g:\delphi\oeswits\econ.edx=Economics Exam
+g:\\*.EDX=
+g:\\*.TXT=

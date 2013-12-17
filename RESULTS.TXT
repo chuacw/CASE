@@ -1,0 +1,44 @@
+Answers for IC: 7312224D
+------------------------
+Question 01
+Exam answer: B User answer: A Wrong
+Question 02
+Exam answer: A User answer: A Right
+Question 03
+Exam answer: B User answer: A Wrong
+Question 04
+Exam answer: D User answer: A Wrong
+Question 05
+Exam answer: A User answer: A Right
+Question 06
+Exam answer: D User answer: A Wrong
+Question 07
+Exam answer: D User answer: A Wrong
+Question 08
+Exam answer: C User answer: A Wrong
+Question 09
+Exam answer: A User answer: B Wrong
+Question 10
+Exam answer: A User answer: B Wrong
+Question 11
+Exam answer: D User answer: A Wrong
+Question 12
+Exam answer: C User answer: B Wrong
+Question 13
+Exam answer: C User answer: A Wrong
+Question 14
+Exam answer: A User answer: B Wrong
+Question 15
+Exam answer: A User answer: A Right
+Question 16
+Exam answer: D User answer: B Wrong
+Question 17
+Exam answer: D User answer: A Wrong
+Question 18
+Exam answer: A User answer: B Wrong
+Question 19
+Exam answer: D User answer: B Wrong
+Question 20
+Exam answer: B User answer: B Right
+Trainee has 04 answers right!
+Percentage right: 20.00
